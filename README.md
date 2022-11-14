@@ -37,3 +37,11 @@ To showcase the committee members of the CCA so users can contact different comm
 
 ### Sign up now!
 This page consists of a form where they will have to input their details which will be sent to the CCA's club's email. 
+
+## Some technology implemented into the website
+* Back to top page
+* Form
+* Picture hyperlinks
+
+![Home Page Wireframe](https://xd.adobe.com/view/416f0eed-566c-4e86-81c5-91816fc4eabf-143c/)
+
