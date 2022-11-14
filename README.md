@@ -43,6 +43,6 @@ This page consists of a form where they will have to input their details which w
 * Form
 * Picture hyperlinks
 
-##Wireframes
+## Wireframes
 
 [HomePage](https://xd.adobe.com/view/416f0eed-566c-4e86-81c5-91816fc4eabf-143c/)
