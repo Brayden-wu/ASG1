@@ -46,4 +46,4 @@ This page consists of a form where they will have to input their details which w
 
 ## Wireframes
 
-[HomePage](https://xd.adobe.com/view/416f0eed-566c-4e86-81c5-91816fc4eabf-143c/)
+[Wireframes of all pages](https://xd.adobe.com/view/3b47f655-15b3-46a3-a79f-97de81aaaba2-6e14/)
