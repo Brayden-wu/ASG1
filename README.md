@@ -42,7 +42,11 @@ This page consists of a form where they will have to input their details which w
 ## Some technology implemented into the website
 * Back to top page
 * Form
-* Picture hyperlinks
+* Interactive pictures
+
+## Features yet to implement
+* Email links can direct straight to email
+* Interactive pictures from the "Our Team page"
 
 ## Wireframes
 
