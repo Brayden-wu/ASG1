@@ -10,6 +10,7 @@ This website is for students of Ngee Ann Polytechnic to know more about the Inli
 3. About us
 4. Our team
 5. Sign up now!
+
 These 4 pages will have a sticky header at the top where users can navigate easily. 
 
 ## Features
