@@ -18,7 +18,8 @@ These 4 pages will have a sticky header at the top where users can navigate easi
 The header section will include hyperlinks into each page, allowing the users to navigate easily on the website.
 
 ### Body
-Home page will be a summary of each different home page, allowing users to click on the pictures which will guide them to the page.
+With the example of the home page,
+Home page will be a summary of each different pages, allowing users to click on the pictures which will guide them to the page.
 Eg. "Click here to see competitions coming up"
 Eg. "Click here to go to the Sign up page"
 
