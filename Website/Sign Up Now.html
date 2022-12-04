@@ -4,19 +4,14 @@
     <meta charset="utf-8">
     <meta name="description" content="Home page"> 
     <title>NpInline Website</title>
-    <link rel="stylesheet" type="text/css" href="style.css">\
+    <link rel="stylesheet" type="text/css" href="style.css">
 
-<!--Styles-->
-<style type="text/css" rel="stylesheet">
-    li{color: white;}
-    a{color:black;}
-    *{color: white;font-size: 18px;}
-</style>
-
-<!--Header-->
+<!--Header logo-->
 <div class="header">
     <img src="Images/NpInline Logo.jpg" width="150px" height="120px" style="float: center;">
 </div>
+
+
 
 </head>
 
@@ -32,13 +27,71 @@
         <li><a href="Sign Up Now.html">Sign Up Now!</a></li>
     </ul>
    
+    <!--Sign up now!-->
+    <h1 style="text-align: center; font-size: 40px;">Sign up now!</h1>
+    <hr>
+
+    <!--Can send on-->
+<h3 style="text-align: center; padding-bottom: 2%;">Please fill up the form below with your details to sign up for our cca! Alternatively, you can sign up through NPAL portal with out CCA code: 00000081. </h3>
 
 
+    <form method="post" action="mailto:cca_inline@connect.np.edu.sg" enctype="text/plain" style="width: 50%;margin: auto; margin-bottom: 5%;  border: 2px solid black;">
+        
+        <!--Name-->
+        <p>
+            <label for="name" style="display: inline-block; font-weight: bold; width: 100px;">Name:</label>
+            <input type="text" id="name" name="Name">
+        </p>
+        
+        <!--Gender-->
+        <p>
+            <label for="Gender" style="display: inline-block; font-weight: bold; width: 100px;">Gender</label>
+            <input type="radio" id="Male" name="Gender" value="Male">
+            <label for="Gender">Male</label>
+            <input type="radio" id="Female" name="Gender" value="Female">
+            <label for="Female">Female</label>
+        </p>
 
+        <!--Student ID-->
+        <p>
+            <label for="Student ID" style="display: inline-block; font-weight: bold; width: 100px;">Student ID:</label>
+            <input type="text" id="Student ID" name="Student ID">
+        </p>
 
+        
+        <!--Phone-->
+        <p>
+            <label for="phone" style="display: inline-block; font-weight: bold; width: 100px;">Phone Number:</label>
+            <input type="tel" id="Phone" name="Phone">
+        </p>
 
+        <!--School Email-->
+        <p>
+            <label for="email" style="display: inline-block; font-weight: bold; width: 100px;"> School Email:</label>
+            <input type="email" id="email" name="Email">
+        </p>
 
+                  
+        <!--Have Skates?-->
+        <p>
+            <label for="Have skates?" style="display: inline-block; font-weight: bold; width: 100px;">Have Skates?</label>
+            <input type="radio" id="Yes" name="Skates" value="Yes">
+            <label for="Male">Yes</label>
+            <input type="radio" id="No" name="Skates" value="No">
+            <label for="Skates">No</label>
+        </p>
+        
+        <!--Comment-->
+        <p>
+            <label for="comment" style="display: inline-block; font-weight: bold; width: 100px;">Comment:</label>
+            <textarea id="comment" name="Comment" rows="3" cols="50"></textarea>
+        </p>
+        
 
+        <input type="submit" value="Submit Feedback">
+        <input type="reset" value="Clear Form">
+
+    </form>
 
 
 
@@ -50,11 +103,10 @@
 
 <!--footer-->
 <div class="footer">
-    <h1 style="text-align: left; color: white;"><u>Got a question?</u></h1>
-    <h2 style="text-align: left; color: white;"><u>Contact us!</u></h1>
-    <p style="text-align: left; color: white;"><strong><a href = "cca_inline@connect.np.edu.sg"> </strong>Send us an email!</p> 
-    <a href="https://www.instagram.com/np_inline/?hl=en" target="_blank"><img src="Images/Instagram_icon.png" width="25px" height="25px" title="SJRBC Tours" alt="NPINLINE IG" style="float: left;"></a>
-    <a href="https://www.facebook.com/npinline/" target="_blank"><img src="Images/facebook icon.png" width="25px" height="25px" title="SJBRC Tours" alt="NPINLINE FB"></a> 
+    <h1 style="text-align: left; color: white; "><u style ="font-size: 25px; color: white;">Got a question?</u></h1>
+    <p style="text-align: left; color: white;"><strong><a href = "mailto: cca_inline@connect.np.edu.sg"></strong>Send us an email!</p> 
+    <a href="https://www.instagram.com/np_inline/?hl=en" target="_blank"><img src="Images/Instagram_icon.png" width="25px" height="25px" alt="NPINLINE IG" style="float: left;"></a>
+    <a href="https://www.facebook.com/npinline/" target="_blank"><img src="Images/facebook icon.png" width="25px" height="25px" alt="NPINLINE FB"></a> 
 </div>
 </body>
 

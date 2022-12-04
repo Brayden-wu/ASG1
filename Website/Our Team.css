@@ -3,10 +3,11 @@
 /*Header styling*/
 /* .header{padding: 40px;text-align: center;background-image: url("Images/NpInline Logo.jpg");} */
 .header{padding: 40px;text-align: center;background-image: url("Images/Header\ Image.webp")}
+
 .header h1{font-size: 40px;}
-.navbar{background-color: bisque;text-align: center;}
-.navbar li{display: inline-block;padding: 18px; color: black;background-color: bisque;}
-.navbar li a{color: black;background-color: bisque;}
+.navigationbar{background-color: bisque;text-align: center;}
+.navigationbar li{display: inline-block;padding: 18px; color: black;background-color: bisque;}
+.navigationbar li a{color: black;background-color: bisque;}
 .footer{padding: 25px;text-align: center;background-color: gray;}
 
 
@@ -64,4 +65,61 @@
   #myBtn:hover {
     background-color: #555; /* Add a dark-grey background on hover */
   }
+
+  .element {
+    all: revert;
+  }
+
+  /*Our Team*/
+  .team
+  {
+    margin: 75px 0;
+  }
+
+  h1
+  {
+    text-align: center;
+    font-weight: bpold;
+    letter-spacing: 2px;
+    color: #333;
+    padding-bottom: 10px;
+  }
+
+  h1:after
+  {
+    content: '';
+    background: #333;
+    display: block;
+    height: 3px;
+    width: 150px;
+    margin: 10px auto;
+  }
+
+  .profile
+  {
+    margin-top: 25px;
+  }
+
+  .profile .img-box
+  {
+    opacity: 1;
+    display: block;
+    position: relative;
+  }
+
+  .profile h2
+  {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 15px;
+  }
+
+  .profile h3
+  {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 15px;
+  
+  }
+
 
