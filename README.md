@@ -52,3 +52,47 @@ This page consists of a form where they will have to input their details which w
 ## Wireframes
 
 [Wireframes of all pages](https://xd.adobe.com/view/3b47f655-15b3-46a3-a79f-97de81aaaba2-6e14/)
+
+
+## References
+### Pictures
+#### From NPINLINE resources:
+* NpInline Logo
+* Admin Photo
+* Logistics Photo
+* training head 1 Photo
+* training head 2 Photo
+* Vice president photo 
+* Vice president 2 photo
+* Sliding picture from IG
+* Slalom Picture from IG
+* Rookie Comp Photo
+* publicity photo
+* president photo
+* NpInline shirt
+* Group Photo
+
+#### From Google
+* Announcements emoji icon
+  *(https://toppng.com/otice-and-announcement-comments-announcement-icon-png-free-PNG-free-PNG-Images_180346![image](https://user-images.githubusercontent.com/116959879/205489722-da5c7ade-7587-4de9-a852-bb4a8618de47.png))
+
+* Facebook icon
+  *https://commons.wikimedia.org/wiki/File:Facebook_icon.svg
+  
+* Instagram icon
+  *https://commons.wikimedia.org/wiki/File:Instagram-Icon.png
+  
+#### From own resources
+* Background Image
+
+### Videos
+#### From NpInline Instagram
+* Slide Video
+* Slalom Video
+* Nationals Video
+
+### Research
+* https://www.rollersports.org.sg/inline-freestyle
+
+
+
