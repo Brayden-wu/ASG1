@@ -28,6 +28,9 @@ The bottom will have the contact information to the president and admin of the c
 The clubs social media will also be provided at the footer of the website.
 The footer will be in every page of the website.
 
+## Home Page
+The home page will consist of previews for each page. It contains sufficient information about the cca in a neat and orderly manner to entice student to join the cca club. With a few interactive functions in pictures, students can navigate through the different pages easily from the home page.
+
 ### The announcements page
 The announcements page will be done so in a manner where the committee of the club can add on new information easily by tweaking the codes easily. 
 
@@ -41,17 +44,19 @@ To showcase the committee members of the CCA so users can contact different comm
 This page consists of a form where they will have to input their details which will be sent to the CCA's club's email. 
 
 ## Some technology implemented into the website
-* Back to top page
+* Back to top page (Responsive)
 * Form
 * Interactive pictures
-
-## Features yet to implement
-* Email links can direct straight to email
-* Interactive pictures from the "Our Team page"
 
 ## Wireframes
 
 [Wireframes of all pages](https://xd.adobe.com/view/3b47f655-15b3-46a3-a79f-97de81aaaba2-6e14/)
+
+
+
+
+
+
 
 
 ## References
